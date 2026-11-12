@@ -4,7 +4,7 @@ wbs_id,title,workstream,dependencies,status,request_id,next_action,owner,gate
 "1.2","B0 Temple editorial reconciliation","Curriculum","1.0","blocked","Q-004","Reconcile Temple X-XII titles against source","Dean","G1"
 "2.0","Functional specification baseline","Requirements","","in_review","Q-007","Review FS v0.1 against 2025 source","Builder","G1"
 "2.1","Review authority design","Governance","1.1;2.0","blocked","Q-005","Define Board of Review authority within Charter","Governance","G1"
-"2.2","Journey data model and test criteria","Requirements","2.0","ready","Q-009","Formalize requirements and acceptance tests","Builder","G1"
+"2.2","Journey data model and test criteria","Requirements","2.0","blocked","Q-009","Formalize requirements and acceptance tests","Builder","G1"
 "3.0","Journey portal prototype","Engineering","2.0","in_review","Q-002","Review and integrate PR #1","Builder","G3"
 "3.1","Prototype independent QA","Quality","3.0","blocked","Q-003","Verify PR #1 tests, accessibility, security and flows","QA","G4"
 "3.2","Source imports and provenance","Engineering","1.0","blocked","Q-008","Preserve original B0 binary in repository","Builder","G0"
